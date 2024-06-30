@@ -1,0 +1,264 @@
+{
+   "Weapons": [
+  {
+   "ID": "0",
+   "Name": "Default Weapon",
+  },
+  {
+   "ID": "2",
+   "Name": "CRBR-S BLAZER",
+  },
+  {
+   "ID": "3",
+   "Name": "CRBR-S",
+  },
+  {
+   "ID": "13",
+   "Name": "CHRSYSALAX SAVAGER",
+  },
+  {
+   "ID": "86",
+   "Name": "HEALTH(TACTICAL)(IDK)",
+  },
+  {
+   "ID": "89",
+   "Name": "CYMBAL MONKEY(TACTICAL)",
+  },
+  {
+   "ID": "94",
+   "Name": "GUNSHIP(MODDED)",
+  },
+  {
+   "ID": "96",
+   "Name": "GUNSHIP(MODDED FISTS)",
+  },
+  {
+   "ID": "97",
+   "Name": "GUNSHIP(MODDED FAST FIRE)",
+  },
+  {
+   "ID": "100",
+   "Name": "STRAFE RUN(MODDED)",
+  },
+  {
+   "ID": "101",
+   "Name": "ATTACK HELICOPTER(MODDED)",
+  },
+  {
+   "ID": "102",
+   "Name": "DRONE SQUAD(MODDED)",
+  },
+  {
+   "ID": "103",
+   "Name": "SAM TURRET(MODDED)",
+  },
+  {
+   "ID": "104",
+   "Name": "RC-XD(MODDED)",
+  },
+  {
+   "ID": "109",
+   "Name": "CHOPPER GUNNER(WORKING)",
+  },
+  {
+   "ID": "179",
+   "Name": "SCREAM KNIFE",
+  },
+  {
+   "ID": "228",
+   "Name": "MODDED FISTS(IDK)",
+  },
+  {
+   "ID": "233",
+   "Name": "ALIEN FISTS",
+  },
+  {
+   "ID": "238",
+   "Name": "MODDED KNIFE",
+  },
+  {
+   "ID": "248",
+   "Name": "EXPLOSIVE FISTS(EXPLOSIVE)",
+  },
+  {
+   "ID": "249",
+   "Name": "MODDED FISTS(BULLETS)",
+  },
+  {
+   "ID": "271",
+   "Name": "MODDED FISTS(BULLETS)",
+  },
+  {
+   "ID": "273",
+   "Name": "TWIN .50 BROWNING(MODDED)",
+  },
+  {
+   "ID": "275",
+   "Name": "MODDED FISTS(BULLETS)",
+  },
+  {
+   "ID": "313",
+   "Name": "ROAD RAGE",
+  },
+  {
+   "ID": "322",
+   "Name": "MODDED FISTS(SHOOTS GREEN SHIT)",
+  },
+  {
+   "ID": "327",
+   "Name": "D.I.E NOVA-5",
+  },
+  {
+   "ID": "332",
+   "Name": "RING OF FIRE(FIELD UPGRADE)",
+  },
+  {
+   "ID": "341",
+   "Name": "TENEBRIS ANIMA(PAP CHRSALAX SAVAGER)",
+  },
+  {
+   "ID": "344",
+   "Name": "D.E.A.D. VIRULENCE",
+  },
+  {
+   "ID": "354",
+   "Name": "SERKITS KISS(MODDED)",
+  },
+  {
+   "ID": "363",
+   "Name": "D.E.A.D. GLACIALATOR",
+  },
+  {
+   "ID": "355",
+   "Name": "D.E.A.D. IMMOLATOR",
+  },
+  {
+   "ID": "372",
+   "Name": "DIE-A-LOTTI & DIE-A-MORI",
+  },
+  {
+   "ID": "373",
+   "Name": "INFINITE RING OF FIRE",
+  },
+  {
+   "ID": "385",
+   "Name": "MODDED WEAPON(EXPLOSIVE BLUE SHIT)",
+  },
+  {
+   "ID": "388",
+   "Name": "D.E.A.D. THUNDERBLAST",
+  },
+  {
+   "ID": "400",
+   "Name": "BANANA LETHAL(IDK)",
+  },
+  {
+   "ID": "408",
+   "Name": "HEALING AURA(FIELD UPGRADE)",
+  },
+  {
+   "ID": "452",
+   "Name": "D.E.A.D. JOLTSURGE",
+  },
+  {
+   "ID": "478",
+   "Name": "PORTERS X2 RAY GUN",
+  },
+  {
+   "ID": "476",
+   "Name": "D.I.E. ELECTROBOLT",
+  },
+  {
+   "ID": "482",
+   "Name": "SPECIMEN(MODDED)",
+  },
+  {
+   "ID": "521",
+   "Name": "SMOOTHBORE(MODDED EXPLOSION)",
+  },
+  {
+   "ID": "525",
+   "Name": "(MODDED EXPLOSION)(IDK)",
+  },
+  {
+   "ID": "504",
+   "Name": "ROCKS(LETHAL)",
+  },
+  {
+   "ID": "19",
+   "Name": "RPG-7",
+  },
+  {
+   "ID": "7",
+   "Name": "E-TOOL",
+  },
+  {
+   "ID": "10",
+   "Name": ".410 IronHide",
+  },
+  {
+   "ID": "63",
+   "Name": "NailGun",
+  },
+  {
+   "ID": "14",
+   "Name": "Crossbow",
+  },
+  {
+   "ID": "23",
+   "Name": "Knife",
+  },
+  {
+   "ID": "69",
+   "Name": "Scythe",
+  },
+  {
+   "ID": "45",
+   "Name": "Sledgehammer",
+  },
+  {
+   "ID": "7",
+   "Name": "E-Tool",
+  },
+  {
+   "ID": "18",
+   "Name": "Machete",
+  },
+  {
+   "ID": "26",
+   "Name": "BaseballBat",
+  },
+  {
+   "ID": "29",
+   "Name": "Mace",
+  },
+  {
+   "ID": "73",
+   "Name": "Cane",
+  },
+  {
+   "ID": "39",
+   "Name": "Sai",
+  },
+  {
+   "ID": "71",
+   "Name": "BattleAxe",
+  },
+  {
+   "ID": "49",
+   "Name": "Wakazashi",
+  },
+  {
+   "ID": "36",
+   "Name": "Sickle",
+  },
+  {
+   "ID": "42",
+   "Name": "BallisticKnife",
+  },
+  {
+   "ID": "5",
+   "Name": "Grav",
+  }
+ ]
+}
